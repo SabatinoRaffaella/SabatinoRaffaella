@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- I'm Sabatino Raffaella and this is apparently the homepage 🤷‍♀️
+- I'm currently working on my first phone app being an e-commerce like app as a Frontend Developer 🤞
+- I like drawing and digital drawing on my free time (don't expect Masterpieces lol) 🎨🖌️
+- I might give suggestions about UX dunno how good they are though 💬😅
+
+- Funny fact: What da dog doing? 🥩🐕🐾🐾🏀
 <!--
 **SabatinoRaffaella/SabatinoRaffaella** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
